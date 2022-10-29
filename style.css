@@ -1,4 +1,18 @@
-html, body {
-  height: 100%;
-  width: 100%;
+p{
+
+  font-size:22px;
+  color: #e33e0b;
+  background-color: #a8f0eb;
+
+}
+
+body {
+  background-color: #c9a7d6;
+  background-color: #662cc9;
+  font-family: "Fantasy", "Monospace"
+}
+
+h1{
+  display: block;
+  
 }
